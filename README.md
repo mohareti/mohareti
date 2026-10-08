@@ -21,14 +21,16 @@
 
 ### `> cat about.md`
 
-I'm a **Senior Manager of Technology at Publicis Sapient** with **~15 years** securing systems across **aviation, financial services, healthcare, and critical infrastructure**. I work where **cybersecurity meets AI**: securing cloud platforms and AI systems, and using AI to build sharper security tooling.
+Security leader with **15 years** across **aviation, financial services, healthcare, e-commerce, and critical infrastructure**. I lead and contribute hands-on across **security architecture, engineering, and operations** — securing cloud platforms and their posture, applying **AI for security** while securing **AI systems** themselves, and turning **security analytics** into proactive **threat hunting**.
 
 ```yaml
 focus:
-  ai_security:    [LLM & agent threat modeling, adversarial ML, MCP security, OWASP LLM Top 10, MITRE ATLAS]
-  cloud_security: [AWS, GCP, security architecture, PCI DSS, certificate lifecycle management]
-  devsecops:      [secure CI/CD, Kubernetes, Helm, Terraform, GitOps]
-  purple_team:    [adversary emulation, detection engineering, threat hunting, attack surface management, pentesting, malware & APK reversing]
+  ai_security:      [AI for security, security of AI, LLM red teaming, MCP & agent security, MITRE ATLAS, OWASP LLM Top 10]
+  cloud_security:   [cloud security architecture, posture management (CSPM), AWS, Azure, GCP]
+  devsecops:        [pipeline security, SAST/DAST, IaC security, Kubernetes]
+  detection_and_ir: [security analytics, threat hunting, detection engineering, incident response, SOC leadership]
+  purple_team:      [adversary emulation, penetration testing, vulnerability management, malware & APK reversing]
+  grc:              [threat modeling, PCI DSS, NIST, HIPAA/HITRUST, ISO 27001, CMMC]
 education:
   - M.S. Computer Network Security — KL University
   - M.S. Computational Science — Texas A&M–Commerce (IoT security research, SDPS Lab)
@@ -52,17 +54,22 @@ education:
 ### `> which --all tools`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,bash,powershell,aws,gcp,azure,kubernetes,docker,terraform,githubactions,fastapi,redis,postgres,linux,kali&perline=8&theme=dark" alt="tools"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,ansible,jenkins,python,r,elasticsearch,linux,kali,githubactions&perline=14&theme=dark" alt="core stack"/>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-000000?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
-  <img src="https://img.shields.io/badge/RAG-ChromaDB_|_pgvector-000000?style=flat-square&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/MCP-Agents-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ArgoCD-000000?style=flat-square&logo=argo&logoColor=EF7B4D"/>
-  <img src="https://img.shields.io/badge/Wazuh-SIEM-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ProjectDiscovery-subfinder_|_httpx_|_nuclei-000000?style=flat-square"/>
-</p>
+
+| Domain | Tooling |
+|---|---|
+| ☁️ **Cloud & Posture** | AWS · Azure · GCP · Wiz · Lacework |
+| ⚙️ **DevSecOps** | Jenkins · Azure DevOps · Ansible · Terraform · Docker · Kubernetes |
+| 🧪 **AppSec (SAST / DAST)** | Checkmarx · SonarQube · Snyk · Burp Suite · OWASP ZAP · Invicti (Netsparker) · AppScan · Acunetix |
+| 🎯 **Offensive & Vuln Mgmt** | Metasploit · Tenable (Nessus, IO, SC, OT) · Qualys · Rapid7 Nexpose · OpenVAS · open-source & commercial red-team tooling |
+| 🛰️ **SIEM, SOC & SOAR** | Splunk · Microsoft Sentinel · Elastic (ELK) · LogRhythm · Sumo Logic · Security Onion |
+| 🛡️ **Endpoint & Threat Response** | CrowdStrike · SentinelOne · Microsoft 365 Defender / Defender for Endpoint · Cylance · enSilo · Palo Alto · F5 WAF · Cloudflare · Infoblox |
+| 🌐 **Network & NDR** | Darktrace · Arista Awake · Wireshark · TShark · tcpdump · TCP/IP · 802.11 · Cisco R&S · IoT protocols |
+| 🔬 **Forensics & Deception** | Magnet AXIOM · Volatility · Autopsy · Acalvio ShadowPlex · T-Pot |
+| 🤖 **AI & Security Analytics** | Python (pandas) · R · Apache Airflow · Superset · Power BI · Ollama · Hugging Face · RAG (ChromaDB, pgvector) · MCP |
+| 📊 **Risk & Human Layer** | BitSight · SecurityScorecard · ImmuniWeb · KnowBe4 · Proofpoint · Cyberbit Range |
+| 📜 **Frameworks** | NIST · PCI DSS · HIPAA · HITRUST · ISO 27001 · CIS Controls · CMMC L1/L2 · MITRE ATT&CK / ATLAS · OWASP Top 10 (Web, Mobile, IoT, LLM) · SANS |
 
 ---
 
