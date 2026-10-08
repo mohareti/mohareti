@@ -76,9 +76,10 @@ education:
 ### `> ps aux | grep current`
 
 - 🛰️ Building AI-driven attack surface & recon tooling on Kubernetes
+- 🧠 Building AI agents for APK analysis, malware analysis, penetration testing & firmware analysis
 - 🤖 Researching **MCP server & agentic-AI security**
 - 📢 Writing the **#AISEC** series on Instagram to make AI security approachable
-- 🟣 Running purple-team exercises, playing CTFs & attending DEF CON
+- 🟣 Running purple-team exercises & playing CTFs
 
 ---
 
